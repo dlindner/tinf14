@@ -16,3 +16,5 @@
 * Object Calisthenics, Details zu den Regeln 1-7
 * Tieferer Exkurs:
 	* boolean als Rückgabetyp beseitigen: Functor-ähnliche Alternativen
+* Zusatzmaterial:
+	* http://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare
