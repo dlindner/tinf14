@@ -8,4 +8,11 @@
 	* Sourcecode zu Overwriting und Overloading
 * "Kostenlose" Elemente der OO
 * Beginn der Object Calisthenics
+* Zusatzmaterial:
+	* http://www.infoq.com/presentations/It-Is-Possible-to-Do-OOP-in-Java
+	* https://www.youtube.com/watch?v=PUv66718DII
 
+## 15.04.2016
+* Object Calisthenics, Details zu den Regeln 1-7
+* Tieferer Exkurs:
+	* boolean als Rückgabetyp beseitigen: Functor-ähnliche Alternativen
