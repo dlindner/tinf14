@@ -33,3 +33,7 @@
 * Zusatzmaterial:
 	* Dreyfus Model of Skill Acquisition: https://www.infoq.com/news/2008/07/Developing-Expertise-Dave-Thomas
 	* Vortrag von Dave Thomas: https://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas
+    * Procrastination Monkey: https://www.youtube.com/watch?v=arj7oStGLkU
+	* Chaos Monkey: http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html
+	* Für ein paar angenehme Stunden am Wochenende: http://shakespearelang.sourceforge.net/report/shakespeare/
+	* Siehe auch: https://de.wikipedia.org/wiki/Shakespeare_Programming_Language
