@@ -1,4 +1,4 @@
-package de.dhbw.tinf14.functional;
+package de.dhbw.tinf14.functional.first;
 
 import java.util.Arrays;
 import java.util.Collection;
