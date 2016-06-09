@@ -40,6 +40,7 @@
 	
 ## 20.05.2016
 * Java Memory Model (Details und Quiz)
+* Mixins
 
 ## 24.05.2016
 * Functional Programming (Teil 1: Basics in Java)
