@@ -14,7 +14,7 @@ public class Scenario {
 		this.courses = courses;
 	}
 	
-	public List<Kurs> couses() {
+	public List<Kurs> courses() {
 		return this.courses;
 	}
 }

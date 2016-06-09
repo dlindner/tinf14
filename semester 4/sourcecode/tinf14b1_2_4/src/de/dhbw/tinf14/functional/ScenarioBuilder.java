@@ -16,10 +16,16 @@ public class ScenarioBuilder {
 	
 	public Scenario build(final int size) {
 		final Scenario result = new Scenario();
-		result.courses(IntStream.range(0, size).mapToObj(Kurs::new).collect(Collectors.toList()));
-		System.out.println("Created " + result.couses().size() + " courses.");
 		
-		final List<Student> allStudents = IntStream.rangeClosed(0, size * 30)
+		result.courses(
+				IntStream
+					.range(0, size)
+					.mapToObj(Kurs::new)
+					.collect(Collectors.toList()));
+		System.out.println("Created " + result.courses().size() + " courses.");
+		
+		final List<Student> allStudents = IntStream
+				 .rangeClosed(0, size * 30)
 				 .mapToObj(index -> new Student(
 						 "Student " + index,
 						 this.random.nextInt(100),
@@ -30,7 +36,7 @@ public class ScenarioBuilder {
 			     .collect(Collectors.toList());
 		System.out.println("Created " + allStudents.size() + " students.");
 		
-		allStudents.forEach(student -> subscribeTo(student, result.couses()));
+		allStudents.forEach(student -> subscribeTo(student, result.courses()));
 		System.out.println("Subscribed " + allStudents.size() + " students to their courses.");
 		
 		return result;
