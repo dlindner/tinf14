@@ -46,6 +46,7 @@
 
 ## 03.06.2016
 * Functional Programming (Teil 2: Stream Processing, Concurrency)
+* Exception Safety (in Java, Einleitung)
 * Zusatzmaterial:
 	* John Carmack und FP in C++: http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php
 	* Kevlin Henney: Functional Programming You Already Know
