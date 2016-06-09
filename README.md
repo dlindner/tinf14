@@ -37,3 +37,23 @@
 	* Chaos Monkey: http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html
 	* Für ein paar angenehme Stunden am Wochenende: http://shakespearelang.sourceforge.net/report/shakespeare/
 	* Siehe auch: https://de.wikipedia.org/wiki/Shakespeare_Programming_Language
+	
+## 20.05.2016
+* Java Memory Model (Details und Quiz)
+
+## 24.05.2016
+* Functional Programming (Teil 1: Basics in Java)
+
+## 03.06.2016
+* Functional Programming (Teil 2: Stream Processing, Concurrency)
+* Zusatzmaterial:
+	* John Carmack und FP in C++: http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php
+	* Kevlin Henney: Functional Programming You Already Know
+		* https://www.infoq.com/presentations/functional-declarative-style
+		* https://vimeo.com/68327245
+	* Die fiese Seite der finally-Blöcke: https://schneide.wordpress.com/2014/07/07/finally-return-considered-harmful/
+	* Rich Hickey: The Value of Values
+		* https://www.infoq.com/presentations/Value-Values
+		* https://www.youtube.com/watch?v=-6BsiVyC1kM
+	* Und wenn wir schon bei Rich Hickey sind: Simple Made Easy
+		* https://www.infoq.com/presentations/Simple-Made-Easy
