@@ -59,3 +59,10 @@
 		* https://www.youtube.com/watch?v=-6BsiVyC1kM
 	* Und wenn wir schon bei Rich Hickey sind: Simple Made Easy
 		* https://www.infoq.com/presentations/Simple-Made-Easy
+
+## 10.06.2016
+* 
+
+## 17.06.2016
+* Zusatzmaterial:
+	* http://homakov.blogspot.de/2012/03/hacking-skrillformer-moneybookers.html
